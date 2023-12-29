@@ -16,7 +16,7 @@ body{
 .profile-card{
     width: 400px;
     height: 500px;
-    border: 1px solid rgb(240,255,255);
+    border: 1px solid rgb(128, 128, 128);
     backdrop-filter: blur(30px);
     background: rgba(255, 255, 255, 0.082);
     display: flex;
